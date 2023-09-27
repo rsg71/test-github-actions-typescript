@@ -1,1 +1,9 @@
-# test-github-actions-typescript
+# Test GitHub Actions with Typescript
+run tests in this repo to test out github actions
+
+
+
+# Tests
+We want to test for: 
+- all tests passing
+- a threshhold % for code coverage (ex: 80%)

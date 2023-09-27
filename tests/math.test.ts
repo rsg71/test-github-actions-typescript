@@ -1,6 +1,7 @@
 import { add, subtract } from "../math";
 
-describe('Math', () => {
+
+describe('Math functions', () => {
     describe('add', () => {
         it('should return the sum of two numbers', () => {
             const result = add(1, 3);

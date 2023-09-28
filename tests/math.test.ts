@@ -9,10 +9,10 @@ describe('Math functions', () => {
         })
     });
 
-    // describe('subtract', () => {
-    //     it('should return the difference between two numbers', () => {
-    //         const result = subtract(5, 2);
-    //         expect(result).toBe(3);
-    //     })
-    // });
+    describe('subtract', () => {
+        it('should return the difference between two numbers', () => {
+            const result = subtract(5, 2);
+            expect(result).toBe(3);
+        })
+    });
 })
